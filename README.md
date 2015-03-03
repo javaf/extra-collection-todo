@@ -16,4 +16,4 @@ being added here in a separate class. More functionality will be added as per ne
 |------------- |----|
 | **map** <br/> `(arr)`                                                                                                         | converts an array of key, value pairs to map <br/> `Map map = Coll.map(new Object[]{"a", 1, "b", 2});` |
 | **list** <br/> `(arr)`                                                                                                        | converts an array of values to list <br/> `List list = Coll.list(new Object[]{1, 2, 3, 4});` |
-
+| **addToListMap** <br/> `(map, key, val)`                                                                                      | add a value to a list-map (values with similar keys exist) <br/> `Coll.addToListMap(map, "username", "alpha");` |
