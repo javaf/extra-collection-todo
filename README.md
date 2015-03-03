@@ -12,4 +12,6 @@ being added here in a separate class. More functionality will be added as per ne
 
 ## Reference
 
-
+| `class Coll` |----|
+|------------- |----|
+| **map** <br/> `()` | converts an array of key, value pairs to map <br/> `Map map = Coll.map(new Object[]{"a", 1, "b", 2});` |
