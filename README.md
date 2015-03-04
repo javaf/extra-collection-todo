@@ -10,6 +10,7 @@ being added here in a separate class. More functionality will be added as per ne
 
 ## Examples
 
+
 ## Reference
 
 | `class Coll` |    |
